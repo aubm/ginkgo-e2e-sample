@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;sample&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../.." />
+      <root url="file://$PROJECT_DIR$/../../../../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../../git.aubm.net" />
+      <root url="file://$PROJECT_DIR$/../../../../speter.net" />
+      <root url="file://$PROJECT_DIR$/../../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../../9fans.net" />
+      <root url="file://$PROJECT_DIR$/../../../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../../cloud.google.com" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../.." />
+      <root url="file://$PROJECT_DIR$/../../../../bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../../git.aubm.net" />
+      <root url="file://$PROJECT_DIR$/../../../../speter.net" />
+      <root url="file://$PROJECT_DIR$/../../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../../9fans.net" />
+      <root url="file://$PROJECT_DIR$/../../../../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../../cloud.google.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
